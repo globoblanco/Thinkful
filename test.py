@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 14 12:14:14 2018
 
-@author: Owner
+@author: Gabriel Lobo-Blanco
 """
 
 class Vector(object):
